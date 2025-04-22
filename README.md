@@ -1,2 +1,2 @@
-# m-todos-de-sistemas-lineales
+# métodos-de-sistemas-lineales
 tarea 3
