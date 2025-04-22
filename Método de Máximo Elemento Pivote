@@ -18,6 +18,7 @@ Método de Máximo Elemento Pivote
  Precisión:
  Los resultados verifican perfectamente las ecuaciones originales
  Se manejan correctamente los valores fraccionarios
+
  
  Ventajas del método:
  Evita divisiones por cero
